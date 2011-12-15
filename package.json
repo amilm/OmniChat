@@ -1,0 +1,10 @@
+{
+     "name": "omni_chat",
+     "description": "Chat Application",
+     "version": "0.0.1",
+     "dependencies": {
+        "express": "",
+        "socket.io": ""
+     }
+}
+
