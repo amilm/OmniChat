@@ -7,7 +7,7 @@ io.set("transports", ["xhr-polling"]);
 io.set("polling duration", 10);
 });
 
-var port = process.env.Port || 3001;
+var port = process.env.Port || 3000;
 app.listen(port);
 
 // routing
